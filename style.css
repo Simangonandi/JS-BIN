@@ -1,0 +1,45 @@
+.greet{
+    background-color : #2534;
+  
+}
+ 
+.Queen {
+  background-color : orange;
+  margin : 7px;
+  padding : 4px;
+  border : 2px;
+  flex : 1;
+  display : inline-grid;
+    text-align : center;
+  
+}
+
+.Lady{
+    background-color : red;
+  margin : 7px;
+  padding : 4px;
+  border : 2px;
+  flex : 1;
+  display : inline-grid;
+    text-align : center;
+}
+ 
+.Peace {
+  background-color : violet;
+  margin : 7px;
+  padding : 10px;
+  border : 2px;
+  flex : 1;
+  display : inline;
+    text-align : center;
+}
+
+.Sim{
+    background-color : lime;
+  margin : 7px;
+  padding : 8px;
+  border : 16px;
+  flex : 1;
+  display : inline-grid;
+    text-align : center;
+}
